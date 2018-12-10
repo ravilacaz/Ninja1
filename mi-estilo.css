@@ -1,0 +1,15 @@
+ricardo.h1{
+  font-size: 15px;
+  color: yellow;
+  font-weight: 100%;
+}
+contenido{
+  font-size: 15px;
+  color: gray;
+  background-color: green;
+
+}
+firma{
+  color: red;
+  font-style: italic;
+}
